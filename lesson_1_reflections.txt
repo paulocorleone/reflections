@@ -1,0 +1,17 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+If anything goes wrong I can easily access all changes that were made, and find what went wrong.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Saves can be logical, but one can easily forget to commit, and do it too late.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A program is usually not composed of one single file.
+
+How can you use the commands git log and git diff to view the history of files?
+git log shows the commits that were made in the project, and git diff shows the differences between commits.
+
+How might using version control make you more confident to make changes that could break something?
+I can easily find where things went wrong.
+
+What happens when you initialize a repository? Why do you need to do it?
+Git starts a new repository but does not commit any file. I need to initialize a repository so that I can track the changes to my files.
